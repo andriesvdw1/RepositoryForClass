@@ -1,0 +1,463 @@
+[
+  {
+    "title": "skrewdriver",
+    "brand": "Gedore",
+    "location": "shelf: 1"
+  },
+  {
+    "title": "hammer",
+    "brand": "Milwaukee",
+    "location": "shelf: 2"
+  },
+  {
+    "title": "drill",
+    "brand": "Ryobi",
+    "location": "shelf: 3"
+  },
+  {
+    "title": "saw",
+    "brand": "DeWalt",
+    "location": "drawer: 1"
+  },
+  {
+    "title": "wrench",
+    "brand": "Bosch",
+    "location": "drawer: 2"
+  },
+  {
+    "title": "punch",
+    "brand": "Makita",
+    "location": "rack: 1"
+  },
+  {
+    "title": "chisel",
+    "brand": "Hitachi",
+    "location": "rack: 2"
+  },
+  {
+    "title": "file",
+    "brand": "Festool",
+    "location": "shelf: 1"
+  },
+  {
+    "title": "trowel",
+    "brand": "Hilti",
+    "location": "shelf: 2"
+  },
+  {
+    "title": "level",
+    "brand": "Metabo",
+    "location": "shelf: 3"
+  },
+  {
+    "title": "tape measure",
+    "brand": "Leister",
+    "location": "shelf: 1"
+  },
+  {
+    "title": "wire stripper",
+    "brand": "AEG",
+    "location": "shelf: 2"
+  },
+  {
+    "title": "socket set",
+    "brand": "Ingersoll-Rand",
+    "location": "shelf: 3"
+  },
+  {
+    "title": "plunger",
+    "brand": "Zurich",
+    "location": "drawer: 1"
+  },
+  {
+    "title": "leveling tool",
+    "brand": "Bosch",
+    "location": "drawer: 2"
+  },
+  {
+    "title": "grinder",
+    "brand": "Makita",
+    "location": "rack: 1"
+  },
+  {
+    "title": "sander",
+    "brand": "DeWalt",
+    "location": "rack: 2"
+  },
+  {
+    "title": "circular saw",
+    "brand": "Ryobi",
+    "location": "shelf: 1"
+  },
+  {
+    "title": "reciprocating saw",
+    "brand": "Hitachi",
+    "location": "shelf: 2"
+  },
+  {
+    "title": "impact driver",
+    "brand": "Makita",
+    "location": "shelf: 3"
+  },
+  {
+    "title": "drill press",
+    "brand": "Bosch",
+    "location": "drawer: 1"
+  },
+  {
+    "title": "band saw",
+    "brand": "Ryobi",
+    "location": "drawer: 2"
+  },
+  {
+    "title": "jigsaw",
+    "brand": "DeWalt",
+    "location": "rack: 1"
+  },
+  {
+    "title": "rotary hammer",
+    "brand": "Hilti",
+    "location": "rack: 2"
+  },
+  {
+    "title": "screwdriver set",
+    "brand": "Gedore",
+    "location": "shelf: 1"
+  },
+  {
+    "title": "plasma cutter",
+    "brand": "Thermadyne",
+    "location": "shelf: 2"
+  },
+  {
+    "title": "welder",
+    "brand": "Lincoln Electric",
+    "location": "shelf: 3"
+  },
+  {
+    "title": "air compressor",
+    "brand": "Ingersoll-Rand",
+    "location": "drawer: 1"
+  },
+  {
+    "title": "angle grinder",
+    "brand": "Makita",
+    "location": "drawer: 2"
+  },
+  {
+    "title": "nail gun",
+    "brand": "DeWalt",
+    "location": "rack: 1"
+  },
+  {
+    "title": "brad nailer",
+    "brand": "Hitachi",
+    "location": "rack: 2"
+  },
+  {
+    "title": "heat gun",
+    "brand": "Milwaukee",
+    "location": "shelf: 1"
+  },
+  {
+    "title": "jointer",
+    "brand": "Jet",
+    "location": "shelf: 2"
+  },
+  {
+    "title": "router",
+    "brand": "Bosch",
+    "location": "shelf: 3"
+  },
+  {
+    "title": "table saw",
+    "brand": "DeWalt",
+    "location": "drawer: 1"
+  },
+  {
+    "title": "miter saw",
+    "brand": "Makita",
+    "location": "drawer: 2"
+  },
+  {
+    "title": "caulk gun",
+    "brand": "Ryobi",
+    "location": "rack: 1"
+  },
+  {
+    "title": "impact wrench",
+    "brand": "Milwaukee",
+    "location": "rack: 2"
+  },
+  {
+    "title": "power washer",
+    "brand": "Karcher",
+    "location": "shelf: 1"
+  },
+  {
+    "title": "cutting torch",
+    "brand": "Victor",
+    "location": "shelf: 2"
+  },
+  {
+    "title": "pipe wrench",
+    "brand": "Ridgid",
+    "location": "shelf: 3"
+  },
+  {
+    "title": "tile cutter",
+    "brand": "QEP",
+    "location": "drawer: 1"
+  },
+  {
+    "title": "staple gun",
+    "brand": "Bostitch",
+    "location": "drawer: 2"
+  },
+  {
+    "title": "concrete mixer",
+    "brand": "Kobalt",
+    "location": "rack: 1"
+  },
+  {
+    "title": "jackhammer",
+    "brand": "Bosch",
+    "location": "rack: 2"
+  },
+  {
+    "title": "clamps",
+    "brand": "Irwin",
+    "location": "shelf: 1"
+  },
+  {
+    "title": "workbench",
+    "brand": "Husky",
+    "location": "shelf: 2"
+  },
+  {
+    "title": "pipe bender",
+    "brand": "Imperial Eastman",
+    "location": "shelf: 3"
+  },
+  {
+    "title": "dust extractor",
+    "brand": "Festool",
+    "location": "drawer: 1"
+  },
+  {
+    "title": "soldering iron",
+    "brand": "Weller",
+    "location": "drawer: 2"
+  },
+  {
+    "title": "vibrating sander",
+    "brand": "Bosch",
+    "location": "rack: 1"
+  },
+  {
+    "title": "cutting mat",
+    "brand": "Olfa",
+    "location": "rack: 2"
+  },
+  {
+    "title": "voltage tester",
+    "brand": "Klein Tools",
+    "location": "shelf: 1"
+  },
+  {
+    "title": "megger",
+    "brand": "Fluke",
+    "location": "shelf: 2"
+  },
+  {
+    "title": "multimeter",
+    "brand": "Extech",
+    "location": "shelf: 3"
+  },
+  {
+    "title": "laser level",
+    "brand": "Bosch",
+    "location": "drawer: 1"
+  },
+  {
+    "title": "tungsten grinder",
+    "brand": "Neutrix",
+    "location": "drawer: 2"
+  },
+  {
+    "title": "band file",
+    "brand": "Makita",
+    "location": "rack: 1"
+  },
+  {
+    "title": "die grinder",
+    "brand": "DeWalt",
+    "location": "rack: 2"
+  },
+  {
+    "title": "precision screwdriver",
+    "brand": "Stanley",
+    "location": "shelf: 1"
+  },
+  {
+    "title": "utility knife",
+    "brand": "Gerber",
+    "location": "shelf: 2"
+  },
+  {
+    "title": "chisels set",
+    "brand": "Irwin",
+    "location": "shelf: 3"
+  },
+  {
+    "title": "lathe",
+    "brand": "Jet",
+    "location": "drawer: 1"
+  },
+  {
+    "title": "bench grinder",
+    "brand": "Craftsman",
+    "location": "drawer: 2"
+  },
+  {
+    "title": "ratchet",
+    "brand": "Snap-On",
+    "location": "rack: 1"
+  },
+  {
+    "title": "torque wrench",
+    "brand": "Park Tool",
+    "location": "rack: 2"
+  },
+  {
+    "title": "ratchet straps",
+    "brand": "Erickson",
+    "location": "shelf: 1"
+  },
+  {
+    "title": "pipe cutter",
+    "brand": "Ridgid",
+    "location": "shelf: 2"
+  },
+  {
+    "title": "cable cutter",
+    "brand": "Knipex",
+    "location": "shelf: 3"
+  },
+  {
+    "title": "crimping tool",
+    "brand": "Ideal",
+    "location": "drawer: 1"
+  },
+  {
+    "title": "manual drill",
+    "brand": "Stanley",
+    "location": "drawer: 2"
+  },
+  {
+    "title": "pull saw",
+    "brand": "Japansaw",
+    "location": "rack: 1"
+  },
+  {
+    "title": "pipe threader",
+    "brand": "Ridgid",
+    "location": "rack: 2"
+  },
+  {
+    "title": "tape dispenser",
+    "brand": "Scotch",
+    "location": "shelf: 1"
+  },
+  {
+    "title": "roller frame",
+    "brand": "Purdy",
+    "location": "shelf: 2"
+  },
+  {
+    "title": "glue gun",
+    "brand": "Stanley",
+    "location": "shelf: 3"
+  },
+  {
+    "title": "welding machine",
+    "brand": "Miller",
+    "location": "drawer: 1"
+  },
+  {
+    "title": "battery charger",
+    "brand": "Black & Decker",
+    "location": "drawer: 2"
+  },
+  {
+    "title": "hose reel",
+    "brand": "Suncast",
+    "location": "rack: 1"
+  },
+  {
+    "title": "metal detector",
+    "brand": "Garrett",
+    "location": "rack: 2"
+  },
+  {
+    "title": "pneumatic wrench",
+    "brand": "Chicago Pneumatic",
+    "location": "shelf: 1"
+  },
+  {
+    "title": "pressure washer",
+    "brand": "Sun Joe",
+    "location": "shelf: 2"
+  },
+  {
+    "title": "worklight",
+    "brand": "DeWalt",
+    "location": "shelf: 3"
+  },
+  {
+    "title": "laser distance measurer",
+    "brand": "Bosch",
+    "location": "drawer: 1"
+  },
+  {
+    "title": "folding knife",
+    "brand": "Spyderco",
+    "location": "drawer: 2"
+  },
+  {
+    "title": "dispenser",
+    "brand": "Kimberly-Clark",
+    "location": "rack: 1"
+  },
+  {
+    "title": "tool chest",
+    "brand": "Husky",
+    "location": "rack: 2"
+  },
+  {
+    "title": "work gloves",
+    "brand": "Mechanix Wear",
+    "location": "shelf: 1"
+  },
+  {
+    "title": "dust mask",
+    "brand": "3M",
+    "location": "shelf: 2"
+  },
+  {
+    "title": "safety glasses",
+    "brand": "Oakley",
+    "location": "shelf: 3"
+  },
+  {
+    "title": "knee pads",
+    "brand": "NoCry",
+    "location": "drawer: 1"
+  },
+  {
+    "title": "ear protection",
+    "brand": "3M",
+    "location": "drawer: 2"
+  }
+]
+

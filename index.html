@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>list of tools:</h1>
+    <ul></ul>
+    <script>
+        const listElement = document.querySelector('ul');
+        fetch('./tools.json')
+        .then(res => res.json())
+        .then(data => {
+            const listItems = data.map(element => 
+            `<li>${'Name: ' +element.title +
+                ', Brand: '+ element.brand+
+                 ', Location: '+ element.location}</li>`).join('');
+            listElement.insertAdjacentHTML('beforeend', listItems);
+        });
+    </script>
+</body>
+</html>
